@@ -2,4 +2,4 @@
 
 Ridha Danjanny
 '
-PHP and JS Developer
+PHP developer
